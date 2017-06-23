@@ -1,0 +1,8 @@
+while installing anaconda on ubuntu i am facing the problem
+Warning: md5sum mismatch of tar archieve
+expected:b389115abffa441e311f19705c91f15
+tar:skipping to next folder
+tar:existing with failure status due to previous errors
+ERROR:could not extract tar starting at line 589
+
+plse help me in resolving this
